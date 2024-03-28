@@ -3,7 +3,7 @@
 
 ## :rocket: Knowledges
  - `ReactJS`
-
+ - `Semantic UI`
 ## :book: How to use
 To clone and run this application, you'll need [Git](https://git-scm.com/downloads) and [ReactJS](https://react.dev/) installed on your computer. From your command line:
 
