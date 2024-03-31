@@ -19,6 +19,10 @@ $ npm install
 
 # Run the app
 $ npm start
+
+#To developer:doker
+$docker buildx build --platform linux/amd64 --push -t reene44444/react-app:react-tic-game-test8 .
+
 ```
 ## :link: Demo
   - <a target="_blank" href="http://www.jmx.org.uk:8080/"> Click Here </a> to see and play by yourself .

@@ -11,11 +11,11 @@ import {BrowserRouter} from "react-router-dom";
 const router = createBrowserRouter([
     {path:'/',element:<RootLayout />
         ,children:[
-            {path:'/TIC-TAC-TOE-GAME/',element:<HomePage/>},
+            // {path:'/TIC-TAC-TOE-GAME/',element:<HomePage/>},
             {path:'/TIC-TAC-TOE-GAME/matching',element:<MatchingPage/>},
             {path:'/TIC-TAC-TOE-GAME/rankinglist',element:<RankingListPage/>},
             {path:'/TIC-TAC-TOE-GAME/shopping',element:<ShoppingPage/>},
-            {path:'/TIC-TAC-TOE-GAME/personalcenter',element:<PersonalCenterPage/>},
+            // {path:'/TIC-TAC-TOE-GAME/personalcenter',element:<PersonalCenterPage/>},
         ]
     },
 ]);
