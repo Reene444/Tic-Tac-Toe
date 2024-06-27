@@ -13,6 +13,6 @@ RUN npm install react-scripts@5.0.1 -g
 
 COPY . ./
 
-EXPOSE 8083
+EXPOSE 8080
 # start app
 CMD ["npm", "start"]

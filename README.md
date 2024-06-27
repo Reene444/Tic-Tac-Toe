@@ -25,7 +25,7 @@ $docker buildx build --platform linux/amd64 --push -t reene44444/react-app:react
 
 ```
 ## :link: Demo
-  - <a target="_blank" href="http://www.jmx.org.uk:8080/"> Click Here </a> to see and play by yourself .
+  - <a target="_blank" href="https://jmx.org.uk/"> Click Here </a> to see and play by yourself .
 
 ## :mailbox: Contact
   - <a target="_blank" href="mailto:reene44444@gmail.com">E-mail</a>
